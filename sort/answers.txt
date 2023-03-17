@@ -1,0 +1,13 @@
+sort1 uses: Bubble sort
+
+How do you know?: sort1 took 10.561s on 50,000 reversed.txt
+bubble sort however has less runtime in best case.
+
+sort2 uses: Merge sort
+
+How do you know?: sort2 took 7.512s on 50,000 reversed.txt
+
+sort3 uses: Selection sort
+
+How do you know?: sort3 took 16.600s on 50,000 reversed.txt
+selection sort however has high runtime than bubble sort in best case.
